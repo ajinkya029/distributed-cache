@@ -76,7 +76,7 @@ Each backend instance maintains its own local LRU cache, while MongoDB acts as t
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ajinkya029/distributed-cache.git
 cd distributed-cache
 ```
 
